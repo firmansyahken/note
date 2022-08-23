@@ -1,0 +1,20 @@
+.semester ul li {
+    list-style: none;
+    border: 1px solid var(--secondary-color);
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.semester ul li:hover, 
+.semester ul li a:hover {
+    border: 1px solid var(--primary-color);
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.semester ul li a {
+    font-size: var(--body-size);
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,64 @@
+.topbar {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    background-color: white;
+}
+
+.topbar .container {
+    margin: auto;
+    max-width: 920px;
+    padding: 1rem 1.5rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topbar h1 a {
+    text-decoration: none;
+    color: black;
+    font-size: var(--title-size);
+}
+
+.topbar .button {
+    background-color: white;
+    border: none;
+    border: 1.5px solid;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topbar .button_active {
+    animation: rotate 3000ms infinite linear;
+    background-color: white;
+    border: none;
+    border: 1.5px solid;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes rotate {
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 468px) {
+    .topbar button {
+        width: 35px;
+        height: 35px;
+    }
+}

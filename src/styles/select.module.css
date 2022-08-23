@@ -1,0 +1,17 @@
+.select {
+    width: 100%;
+    background-color: white;
+    border: 1px solid var(--secondary-color);
+    padding: 15px 15px;
+    box-sizing: border-box;
+    display: none;
+    border-radius: 10px;
+    outline: none;
+    font-size: var(--body-size);
+}
+
+@media (max-width: 600px) {
+    .select {
+        display: block;
+    }
+}

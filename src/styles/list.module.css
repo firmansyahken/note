@@ -1,0 +1,16 @@
+.list {
+    border: 1px solid var(--secondary-color);
+    padding: 15px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.list p {
+    font-size: var(--body-size);
+}
+
+.list:hover {
+    color: white;
+    background-color: var(--primary-color);
+}

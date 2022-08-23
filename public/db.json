@@ -1,0 +1,33 @@
+{
+    "smt1": [
+        {
+            "matkul": "Bahasa Indonesia",
+            "path": "semester1/bin.md" 
+        },
+        {
+            "matkul": "Bahasa Inggris",
+            "path": "semester1/bing.md" 
+        },
+        {
+            "matkul": "Pengenalan Teknologi Informasi",
+            "path": "semester1/pti.md" 
+        }
+    ],
+    "smt2": [
+        {
+            "matkul": "Struktur Data"
+        },
+        {
+            "matkul": "Algoritma Pemerograman"
+        },
+        {
+            "matkul": "Pengenalan Python"
+        }
+    ],
+    "smt3": [],
+    "smt4": [],
+    "smt5": [],
+    "smt6": [],
+    "smt7": [],
+    "smt8": []   
+}

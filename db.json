@@ -1,0 +1,24 @@
+{
+    "smt-1": [
+        {
+            "matkul": "Bahasa Indonesia"
+        },
+        {
+            "matkul": "Bahasa Inggris"
+        },
+        {
+            "matkul": "Pengenalan Teknologi Informasi"
+        }
+    ],
+    "smt-2": [
+        {
+            "matkul": "Struktur Data"
+        },
+        {
+            "matkul": "Algoritma Pemerograman"
+        },
+        {
+            "matkul": "Pengenalan Teknologi Informasi"
+        }
+    ]
+}
