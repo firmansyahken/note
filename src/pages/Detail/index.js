@@ -13,14 +13,14 @@ const Detail = () => {
   const [subjects, setSubjects] = useState([])
 
   useEffect(() => {
-    fetch("../../../"+params.path).then(r => r.text())
+    fetch(`${process.env.PUBLIC_URL}/${params.path}`).then(r => r.text())
     .then(response => {
       setData(marked.parse(response))
     })
   }, [params])
   
   useEffect(() => {
-    fetch("../../../db.json").then(r => r.json())
+    fetch(`${process.env.PUBLIC_URL}/db.json`).then(r => r.json())
     .then(response => {
       const data = response[params.semester]
       setSubjects(data)

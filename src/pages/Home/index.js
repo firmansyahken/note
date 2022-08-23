@@ -7,7 +7,12 @@ const Home = () => {
   const [semester, setSemester] = useState("smt1")
 
   useEffect(() => {
-    fetch("../../../db.json").then(r => r.json())
+    fetch(`${process.env.PUBLIC_URL}/db.json`, {
+      headers : { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }
+    }).then(r => r.json())
     .then(response => {
       const data = response[semester]
       setSubjects(data)
