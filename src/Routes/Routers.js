@@ -1,12 +1,12 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import { Home, Layout, Detail } from "../pages";
 import ScrollToTop from "../utils/ScrollToTop";
 
 const Routers = () => {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Layout />}>
@@ -14,7 +14,7 @@ const Routers = () => {
             <Route path="/detail" element={<Detail />} />
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 };
