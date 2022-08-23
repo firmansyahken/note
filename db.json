@@ -11,6 +11,14 @@
         {
             "matkul": "Pengenalan Teknologi Informasi",
             "path": "semester1/pti.md" 
+        }, 
+        {
+            "matkul": "Algoritma Pemerograman Dasar",
+            "path": "semester1/alpro.md" 
+        }, 
+        {
+            "matkul": "Pancasila",
+            "path": "semester1/pancasila.md" 
         }
     ],
     "smt2": [

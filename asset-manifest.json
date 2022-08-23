@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/note/static/css/main.e7f311cc.css",
-    "main.js": "/note/static/js/main.9a768545.js",
+    "main.css": "/note/static/css/main.16229074.css",
+    "main.js": "/note/static/js/main.e51d5e74.js",
     "static/js/787.11e48f93.chunk.js": "/note/static/js/787.11e48f93.chunk.js",
     "static/media/lofi.mp3": "/note/static/media/lofi.f060079f3fe84e87f93c.mp3",
     "static/media/anime.png": "/note/static/media/anime.a9fd954cf2def6a49fb0.png",
-    "static/media/music.svg": "/note/static/media/music.7ecc2446eeb87b51d88e11a2167b1efa.svg",
+    "static/media/ilustration.svg": "/note/static/media/ilustration.35b57ff5bfd7ca6d24988b9622b4067d.svg",
     "index.html": "/note/index.html",
-    "main.e7f311cc.css.map": "/note/static/css/main.e7f311cc.css.map",
-    "main.9a768545.js.map": "/note/static/js/main.9a768545.js.map",
+    "static/media/music.svg": "/note/static/media/music.7ecc2446eeb87b51d88e11a2167b1efa.svg",
+    "main.16229074.css.map": "/note/static/css/main.16229074.css.map",
+    "main.e51d5e74.js.map": "/note/static/js/main.e51d5e74.js.map",
     "787.11e48f93.chunk.js.map": "/note/static/js/787.11e48f93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f311cc.css",
-    "static/js/main.9a768545.js"
+    "static/css/main.16229074.css",
+    "static/js/main.e51d5e74.js"
   ]
 }
