@@ -19,6 +19,10 @@
         {
             "matkul": "Pancasila",
             "path": "semester1/pancasila.md" 
+        },
+        {
+            "matkul": "Pendidikan Agama Islam",
+            "path": "semester1/pai.md" 
         }
     ],
     "smt2": [
