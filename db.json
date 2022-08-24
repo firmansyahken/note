@@ -23,6 +23,10 @@
         {
             "matkul": "Pendidikan Agama Islam",
             "path": "semester1/pai.md" 
+        }, 
+        {
+            "matkul": "Matematika Teknik", 
+            "path": "semester1/mt.md"
         }
     ],
     "smt2": [
