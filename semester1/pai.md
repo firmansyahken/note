@@ -19,6 +19,8 @@ Proses : Daring
         Assyamsi, Adduha, Insyirah, Al-Kafirun\
     b. Bacaan Sholat :\
         Niat, Doa Iftitah, Rukuk, Sujud, Duduk, Tahyat Akhir dan Qunut\
+<br/>
+
 2 Kelompok :\
     a. Membuat karya ilmiah\
     b. Tulis ilmiah sesuai dengan materi perkuliahan\
