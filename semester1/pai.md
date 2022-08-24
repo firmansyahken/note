@@ -8,7 +8,7 @@
 Pertemuan Ke: 1\
 Tanggal : 24 Agustus 2022\
 Status : Ada\
-Proses : Daring
+Pembelajaran : Daring
 
 <br/>
 
