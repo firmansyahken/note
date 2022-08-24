@@ -3,14 +3,17 @@
 <br/>
 
 ### 🤝 Kontrak Kuliah
+
 <br/>
-Pertemuan Ke: 1 \
-Tanggal : 24 Agustus 2022 \
-Status : Ada \
+
+Pertemuan Ke: 1\
+Tanggal : 24 Agustus 2022\
+Status : Ada\
 Proses : Daring
+
 ---
 
-#### 📑 Tugas-Tugas
+#### 📑 Tugas-Tugas 
 1 Mandiri (Hafalan) :\
     a. Ayat Pendek :\
         Assyamsi, Adduha, Insyirah, Al-Kafirun\
@@ -22,6 +25,7 @@ Proses : Daring
     c. Membuat karya ilmiah sesuai dengan tugas dan materi
 
 ---
+
 #### 📝 Kriteria Penilaian
 1 Tafaqquh Fi al Deen 30%\
 2 Hafalan Ayat Pendek 10%\
